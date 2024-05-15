@@ -6,6 +6,6 @@
   <img  align="left" src="https://github-readme-stats.vercel.app/api?username=yo-aiv1&count_private=true&show_icons=true" />
 </a>
 <a>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yo-aiv1&hide=css,javascript,html,shell" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yo-aiv1&hide=css,javascript,html,shell,SCSS" />
 </a>
 
